@@ -1,0 +1,6 @@
+description = "Socratic mentor mode: learn by answering (lite | full | ultra | off)"
+prompt = """
+Socratic level requested: "{{args}}". Empty means full; "off" means turn Socratic mode off and work normally.
+Otherwise turn Socratic mentor mode on at that level and follow the Socratic rules in your context exactly from this message on.
+Start by finding out what I already know about the task at hand, with one question.
+"""

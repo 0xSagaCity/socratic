@@ -1,0 +1,39 @@
+{
+  "name": "socratic",
+  "version": "1.1.0",
+  "description": "Socratic mentor mode. Guides you to the answer one question at a time and teaches the concept behind each answer as you go.",
+  "author": {
+    "name": "0xSagaCity",
+    "url": "https://github.com/0xSagaCity"
+  },
+  "homepage": "https://github.com/0xSagaCity/socratic",
+  "repository": "https://github.com/0xSagaCity/socratic",
+  "license": "MIT",
+  "keywords": [
+    "socratic",
+    "teaching",
+    "learning",
+    "mentor",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Socratic",
+    "shortDescription": "Learn by answering, not by copying",
+    "longDescription": "Turns the agent into a patient mentor: one well-aimed question at a time, a short lesson after every answer, and a hint ladder when you are stuck.",
+    "developerName": "0xSagaCity",
+    "category": "Education",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/0xSagaCity/socratic",
+    "defaultPrompt": [
+      "Teach me how this code works, socratic style.",
+      "Help me find this bug myself.",
+      "Quiz me on what I just built."
+    ],
+    "brandColor": "#6366F1",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}
