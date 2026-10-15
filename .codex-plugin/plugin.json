@@ -1,6 +1,6 @@
 {
   "name": "socratic",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Socratic mentor mode. Guides you to the answer one question at a time and teaches the concept behind each answer as you go.",
   "author": {
     "name": "0xSagaCity",
@@ -28,9 +28,9 @@
     ],
     "websiteURL": "https://github.com/0xSagaCity/socratic",
     "defaultPrompt": [
-      "Teach me how this code works, socratic style.",
+      "Help me think through this design, socratic style.",
       "Help me find this bug myself.",
-      "Quiz me on what I just built."
+      "Quiz me on the decisions behind what I just built."
     ],
     "brandColor": "#6366F1",
     "composerIcon": "./assets/logo.png",

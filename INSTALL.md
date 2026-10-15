@@ -86,7 +86,7 @@ Copy the file for your editor into your project, or into the global location whe
 
 ## System prompt (chat apps and APIs)
 
-[`prompts/system-prompt.md`](prompts/system-prompt.md) is the same ruleset, switched on from the first message. It is about 6.5k characters.
+[`prompts/system-prompt.md`](prompts/system-prompt.md) is the same ruleset, switched on from the first message. It stays under 8,000 characters, so it fits a custom GPT's instructions.
 
 | Where | Paste it into |
 |---|---|

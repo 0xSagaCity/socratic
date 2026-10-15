@@ -1,7 +1,7 @@
 {
   "name": "socratic",
   "description": "Socratic mentor mode. Guides you to the answer one question at a time and teaches the concept behind each answer as you go.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": {
     "name": "0xSagaCity",
     "url": "https://github.com/0xSagaCity"

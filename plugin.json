@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "socratic",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Socratic mentor mode for AI agents. Guides you to the answer one question at a time and teaches the concept behind each answer as you go."
 }

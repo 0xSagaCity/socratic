@@ -21,7 +21,7 @@ const yamlDescription = JSON.stringify(description); // JSON strings are valid Y
 
 // Rule files are loaded on every turn by most hosts, so they stay dormant until asked.
 const OPT_IN =
-  '> **Off until the user asks for it.** Turn it on when they say "socratic", "teach me", "quiz me", "help me understand", "walk me through it" or "don\'t just give me the answer", or pick a level ("socratic lite|full|ultra"). Until then, ignore everything below and work normally.\n';
+  '> **Off until the user asks for it.** Turn it on when they say "socratic", "teach me", "quiz me", "help me understand", "help me think this through", "walk me through it" or "don\'t just give me the answer", or pick a level ("socratic lite|full|ultra"). Until then, ignore everything below and work normally.\n';
 const ALWAYS_ON = "> **Mode is on from the first message.** Default level: full.\n";
 
 const ruleBody = `${title}\n\n${OPT_IN}${rest}`;
