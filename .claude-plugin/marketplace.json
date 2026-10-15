@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "socratic",
+  "description": "Socratic mentor mode for AI coding agents. Learn by answering, not by copying.",
+  "owner": {
+    "name": "0xSagaCity",
+    "url": "https://github.com/0xSagaCity"
+  },
+  "plugins": [
+    {
+      "name": "socratic",
+      "description": "Asks one well-aimed question at a time and teaches the idea behind every answer.",
+      "source": "./",
+      "category": "learning"
+    }
+  ]
+}
